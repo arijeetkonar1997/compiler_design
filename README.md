@@ -1,2 +1,2 @@
 # compiler_design
-To find out the terminals from a production
+To find out the terminals and non terminals from a production without repeatation
